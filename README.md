@@ -1,4 +1,5 @@
 # Economic Writing Samples
+Selected research, policy analysis, and economic commentary developed alongside applied econometric and forecasting work.
 
 This repository contains selected writing samples focused on macroeconomic policy, applied econometrics, forecasting, and economic analysis.
 
